@@ -1,0 +1,5 @@
+{
+    "ignore": ["dist/"],
+    "exec": "yarn build && node dist/server.js",
+    "ext": "js,json,ts"
+}
